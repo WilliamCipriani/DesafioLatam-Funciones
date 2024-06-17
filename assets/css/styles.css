@@ -1,0 +1,22 @@
+section {
+    display:  flex;
+    justify-content: space-around;
+}
+
+.contendor {
+    width: 200px;
+    height: 200px;
+}
+
+.contenedor1 {
+    background-color: blue;
+}
+.contenedor2 {
+    background-color: red;
+}
+.contenedor3 {
+    background-color: green;
+}
+.contenedor4 {
+    background-color: yellow;
+}
